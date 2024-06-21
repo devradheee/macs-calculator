@@ -40,5 +40,5 @@ An advanced scientific calculator built with React and Math.js, featuring a dark
 
 ## Screenshots
 
-![Calculator Screenshot](./screenshot(536).png)
+![Calculator Screenshot](./Screenshot (536).png)
 
