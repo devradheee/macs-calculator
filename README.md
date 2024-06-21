@@ -17,7 +17,7 @@ An advanced scientific calculator built with React and Math.js, featuring a dark
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/advanced-scientific-calculator.git
+    git clone https://github.com/devradheee/macs-calculator.git
     cd advanced-scientific-calculator
     ```
 
@@ -40,5 +40,5 @@ An advanced scientific calculator built with React and Math.js, featuring a dark
 
 ## Screenshots
 
-![Calculator Screenshot](./screenshot.png)
+![Calculator Screenshot](./screenshot(536).png)
 
